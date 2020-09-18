@@ -1,2 +1,2 @@
-# DMcompetitions
-Competizioni
+# Data Mining competitions
+Competizioni di data mining
